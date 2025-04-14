@@ -51,5 +51,6 @@ This project is a fully automated personal finance budgeter built on **Databrick
 ## 📈 Example Output
 
 ![image](https://github.com/user-attachments/assets/c97f2ee1-7338-4a52-9cca-0a0827d4b0b4)
+![image](https://github.com/user-attachments/assets/debcbf75-92fd-4c2e-a7b6-f27454dadf04)
 
 ---
